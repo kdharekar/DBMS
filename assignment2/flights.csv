@@ -1,0 +1,13 @@
+flightid,originairportid,destairportid,carrier,dayofmonth,dayofweek,departuredelay,arrivaldelay
+1,10140,5,united,1,1,1,-1
+2,5,4,united,1,1,2,-2
+3,4,6,united,1,1,3,-6
+4,6,7,united,1,1,4,-7
+5,7,8,united,1,1,5,8
+6,8,9,southwest,1,1,6,9
+7,9,1,united,1,1,7,0
+
+8,7,10140,southwest,1,1,4,-7
+9,1,10140,southwest,1,1,6,9
+10,8,7,southwest,1,1,6,9
+'11','10140','10','southwest','1','1','6','9'
